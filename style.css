@@ -134,12 +134,11 @@ main {
 	}
 	
 #my img{
-	    width: 300px;
-		border-radius: 20px;
+	    width: 220px;
+	    border-radius: 20px;
 	}
 
 article {
-  padding: 1rem;
   padding-left: 1rem;
   text-align: justify;
   font-size: 0.85rem;
@@ -148,9 +147,9 @@ article {
 	
 
 .profile{
-	scale:90%;
+	scale:80%;
 	text-align: center;
-	margin-top: 2rem;
+	margin-top: 1rem;
 	padding-bottom: 3rem;
 }
 
