@@ -205,7 +205,8 @@ h3{
 }
 
 #gallery img{
-  border-radius: 20px;	
+  border-radius: 20px;
+  width: 250px;
 	}
 	
 .img{
