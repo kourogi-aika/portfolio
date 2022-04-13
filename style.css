@@ -139,19 +139,23 @@ main {
 	}
 
 article {
-  padding-left: 1rem;
-  text-align: justify;
+  text-align: center;
   font-size: 0.85rem;
   background-color: #FEF4EB;;
 }
 	
 
 .profile{
-	scale:80%;
+	width:100%;
 	text-align: center;
 	margin-top: 1rem;
 	padding-bottom: 3rem;
 }
+	
+.profile img{
+	width: 180px;
+	}
+
 
 .works{
   width: 100%;
